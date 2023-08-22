@@ -86,7 +86,8 @@ class _MyAppState extends State<MyApp> {
             Align(
               alignment: Alignment.center,
               child: Padding(
-                padding: EdgeInsets.only(bottom: 150),
+                padding: EdgeInsets.only(
+                    bottom: MediaQuery.of(context).size.height * .2),
                 child: Transform.flip(
                   flipY: true,
                   child: ClipPath(
