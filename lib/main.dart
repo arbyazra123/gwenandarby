@@ -10,7 +10,7 @@ import 'package:just_audio/just_audio.dart';
 import 'package:simple_animations/simple_animations.dart';
 import 'package:timer_count_down/timer_count_down.dart';
 
-var destination = DateTime(2023, DateTime.august, 27, 6, 45, 0);
+var destination = DateTime(2023, DateTime.august, 27, 7, 45, 0);
 // var start = DateTime(2023, DateTime.august, 27, 5, 59, 50);
 var start = DateTime(2023, DateTime.august, 22, 12, 0, 0);
 // var now = DateTime(2023, DateTime.august, 27, 6, 39, 55);
